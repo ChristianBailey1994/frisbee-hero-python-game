@@ -41,10 +41,10 @@ python FrisbeeHero.py
 ## Screenshots
 
 ### Start Screen
-![Start Screenshot](screenshots/start.png)
+![Start Screenshot](screenshots/Start.png)
 
-### End Screen
-![End Screenshot](screenshots/end.png)
+### Death_Screen
+![End Screenshot](screenshots/Death_Screen.png)
 
-### Boss_level
-![Boss_Level Screenshot](Boss_level/end.png)
+### Boss
+![Boss_Level Screenshot](Boss/Bnd.png)
