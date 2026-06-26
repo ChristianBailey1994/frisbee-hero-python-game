@@ -33,9 +33,11 @@ This project helped me strengthen my understanding of programming fundamentals w
 ## How to Run
 
 1. Download or clone the repository.
-2. Make sure Python is installed. (pycharm is the IDE I used)
-3. Open the project folder.
-4. Run the main Python file:
+2. Make sure Python is installed.
+3. Install Pygame:
+
+```bash
+pip install pygame
 
 python FrisbeeHero.py
 ## Screenshots
