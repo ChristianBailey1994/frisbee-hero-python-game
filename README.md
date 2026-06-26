@@ -40,8 +40,11 @@ This project helped me strengthen my understanding of programming fundamentals w
 python FrisbeeHero.py
 ## Screenshots
 
-### Gameplay
-![Gameplay Screenshot](screenshots/gameplay.png)
+### Start Screen
+![Start Screenshot](screenshots/start.png)
 
-### Scoreboard
-![Scoreboard Screenshot](screenshots/scoreboard.png)
+### End Screen
+![End Screenshot](screenshots/end.png)
+
+### Boss_level
+![Boss_Level Screenshot](Boss_level/end.png)
