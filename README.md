@@ -14,6 +14,8 @@ Frisbee Hero is a 2D arcade-style game built in Python for my CS1400 programming
 - Image-based game assets
 - Collision detection and event handling
 
+-----------------------------------------------------------------------------------------
+
 ## Skills Demonstrated
 
 - Python programming
@@ -26,9 +28,14 @@ Frisbee Hero is a 2D arcade-style game built in Python for my CS1400 programming
 - Project organization
 - Problem-solving
 
+-----------------------------------------------------------------------------------------
+
 ## What I Learned
 
 This project helped me strengthen my understanding of programming fundamentals while building an interactive application from concept to playable demo. I practiced organizing code, managing image assets, debugging gameplay issues, and designing logic for enemies, scoring, power-ups, and player states.
+
+
+-----------------------------------------------------------------------------------------
 
 ## How to Run
 
@@ -38,8 +45,22 @@ This project helped me strengthen my understanding of programming fundamentals w
 
 ```bash
 pip install pygame
+```
 
-python FrisbeeHero.py
+4. Open the main project folder:
+
+```bash
+cd "Frisbee Hero — 2D Arcade Game in Python"
+```
+
+5. Run the game:
+
+```bash
+python adventure.py
+```
+
+-----------------------------------------------------------------------------------------
+
 ## Screenshots
 
 ### Start Screen
